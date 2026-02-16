@@ -1,6 +1,6 @@
 ## 👋 Hamakaze Soft
 
-倉庫勤務しながら個人開発。
+倉庫勤務しながら個人開発。  
 SwiftUI / Unity / Python
 
 - 📱 iOSアプリ開発 (SwiftUI)
@@ -8,7 +8,7 @@ SwiftUI / Unity / Python
 - 🧮 Pythonシミュレーター
 - 💰 AdMob分析
 
-目標：アプリ収益化
+目標：アプリ収益化 (まずは月1万円)
 
 
 ## Apps
