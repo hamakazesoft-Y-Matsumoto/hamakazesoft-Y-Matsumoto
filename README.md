@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hamakaze Soft
 
-<!--
-**hamakazesoft-Y-Matsumoto/hamakazesoft-Y-Matsumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+倉庫勤務しながら個人開発。
+SwiftUI / Unity / Python
 
-Here are some ideas to get you started:
+- 📱 iOSアプリ開発 (SwiftUI)
+- 🎮 Unity 2D
+- 🧮 Pythonシミュレーター
+- 💰 AdMob分析
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+目標：アプリ収益化
+
+
+## Apps
+- やる気の出ない日ログ
+- https://apps.apple.com/jp/app/%E3%82%84%E3%82%8B%E6%B0%97%E3%81%AE%E5%87%BA%E3%81%AA%E3%81%84%E6%97%A5%E3%83%AD%E3%82%B0-%E5%BA%83%E5%91%8A%E3%81%AA%E3%81%97/id6758742783
+  
+- +-筆算電卓
+- https://apps.apple.com/jp/app/pencilcalc/id6754930533
+
