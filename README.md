@@ -33,6 +33,17 @@ https://apps.apple.com/jp/app/pencilcalc/id6754930533
 
 ---
 
+### 車vs鉄道
+- 車のガソリン代と鉄道運賃を比較するアプリ
+- SwiftUIで一人開発(Codex利用)
+- App Store公開
+- ASOと広告収益を実験中
+
+App Store:
+https://apps.apple.com/jp/app/%E8%BB%8Avs%E9%89%84%E9%81%93/id6760250813
+
+---
+
 ## 🧠 Skills
 
 - Codexを利用したiOSアプリ開発（SwiftUI）
